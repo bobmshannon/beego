@@ -43,7 +43,7 @@ import (
 	"time"
 
 	"github.com/astaxie/beego/config"
-	"github.com/beego/goyaml2"
+	"github.com/bobmshannon/goyaml2"
 )
 
 // Config is a yaml config parser and implements Config interface.
